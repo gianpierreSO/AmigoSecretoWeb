@@ -48,7 +48,7 @@ Permite agregar nombres a una lista y elegir aleatoriamente quién será el "ami
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/usuario/amigo-secreto.git
+   git clone https://github.com/gianpierreSO/AmigoSecretoWeb.git
    ```
 
 2. Abre `index.html` en tu navegador.
