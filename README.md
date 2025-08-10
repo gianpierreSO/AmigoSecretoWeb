@@ -1,4 +1,4 @@
-# Amigo Secreto
+# 🎁 Amigo Secreto
 
 Aplicación web sencilla para organizar un sorteo de **Amigo Secreto**.
 Permite agregar nombres a una lista y elegir aleatoriamente quién será el "amigo secreto".
@@ -54,13 +54,5 @@ Permite agregar nombres a una lista y elegir aleatoriamente quién será el "ami
 2. Abre `index.html` en tu navegador.
 
 3. ¡Agrega nombres y sortea! 🎉
-
----
-
-## 💡 Mejoras futuras
-
-* Asignación única de amigos secretos para todos los participantes.
-* Guardar la lista en **LocalStorage**.
-* Animaciones y mejoras visuales.
 
 
